@@ -22,6 +22,13 @@ public class CopyOfStringFunctions {
 		return str1 + str2;
 	}
 	
+	/**
+	 * Added stuff in master.
+	 * @param str1
+	 * @param str2
+	 * @param str3
+	 * @return
+	 */
 	public String concatWithThree(String str1, String str2, String str3) {
 		return str1 + str2 + str3;
 	}
