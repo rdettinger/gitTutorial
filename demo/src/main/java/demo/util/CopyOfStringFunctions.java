@@ -21,4 +21,8 @@ public class CopyOfStringFunctions {
 	public String concat(String str1, String str2) {
 		return str1 + str2;
 	}
+	
+	public String concatWithThree(String str1, String str2, String str3) {
+		return str1 + str2 + str3;
+	}
 }
