@@ -1,5 +1,11 @@
 package demo.util;
 
+/**
+ * There just wasn't enough comments in this file for me to figure it out yet.
+ * 
+ * @author mrddqb
+ *
+ */
 public class CopyOfStringFunctions {
 
 	/**
